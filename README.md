@@ -1,18 +1,19 @@
 # Simple-Converter-Binary-Hex-Oct-Dec
-Simple converter Binary , Hexadecimal , Octal , Decimal 
----
+
+Make your calculate work in easy
+
 # Instalasi
 Clone this repo
 
-```bash
+```shell
 
-git clone 
+git clone https://github.com/Dhikaweb7/Simple-Converter-Binary-Hex-Oct-Dec
 
 ```
 
 run PHP server
 
-```bash
+```shell
 
 php -S localhost:8080 -t Simple-Converter-Binary-Hex-Oct-Dec
 
