@@ -36,6 +36,12 @@
     </div>
   </div>
 </nav>
+ <!-- body -->
+ <div class="mt-2 mb-2">
+  <h1 class="text-center text-success">SMK RADEN PAKU</h1>
+  <hr class="text-danger">
+  <h4 class="text-center text-primary">X TKJ 1</h4>
+ </div>
  <form method="post" action="">
    <table width="500" border="0" cellspacing="0" cellpadding="0">
      <tr>
