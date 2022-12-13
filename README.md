@@ -1,4 +1,4 @@
-# Simple-Converter-Binary-Hex-Oct-Dec
+# Simple Converter Binary Hex Oct Dec
 
 Make your calculate work in easy
 
