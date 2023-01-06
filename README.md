@@ -14,7 +14,7 @@ git clone https://github.com/Dhikaweb7/Simple-Converter-Binary-Hex-Oct-Dec
 
 ```
 
-run PHP server on your local computer
+run PHP server on your local computer with terminal or using web server like [xampp](https://www.apachefriends.org/)
 
 ```shell
 
