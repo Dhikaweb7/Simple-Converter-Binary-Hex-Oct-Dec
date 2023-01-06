@@ -3,7 +3,7 @@
 Make your calculate work in easy
 
 # Instalation
-> Requiments
+ ### Requiments
 - [PHP](php.md)
 - [Git](git.md) > Optional if you coding manualy you not install git , but if you cloning this repo , you can install git in your computer
 Clone this repo
